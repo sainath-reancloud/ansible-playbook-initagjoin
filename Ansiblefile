@@ -1,0 +1,2 @@
+role 'initagjoin',
+  git: 'https://github.com/sainath-reancloud/ansible-role-initagjoin.git', ref: 'master'

@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/sainath-reancloud/ansible-role-initagjoin.git
+  ref: master
+  sha: e5cd7bd9f3cd9338b5d4a7420cbd8d9be062c0f7
+  specs:
+    initagjoin (0.1)
+
+DEPENDENCIES
+  initagjoin (>= 0)
+
